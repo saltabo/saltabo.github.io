@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>Saltabo Updates</title>
-        <link>https://github.com/saltabo/saltabo.github.io/releases</link>
+        <link>https://github.com/saltabo/saltabo/releases</link>
         <description>Latest releases for Saltabo</description>
         <language>en</language>
         <!-- Newest item should be first -->
@@ -11,7 +11,7 @@
             <pubDate>Wed, 16 Apr 2026 10:00:00 +0000</pubDate>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:version>100</sparkle:version>
-            <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.0.0/Saltabo.zip" sparkle:shortVersionString="1.0.0" sparkle:version="100" type="application/octet-stream"/>
+            <enclosure url="https://github.com/saltabo/saltabo/releases/download/v1.0.0/Saltabo.zip" sparkle:shortVersionString="1.0.0" sparkle:version="100" type="application/octet-stream"/>
         </item>
         <item>
             <title>1.0</title>
@@ -19,7 +19,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/saltabo/saltabo.github.io/releases/download/v1.0.0/Saltabo.zip" length="1875383" type="application/octet-stream" sparkle:edSignature="k3/F3GRwL77TFXddbRoA04onUX7lVVlSV/1mb8munbFMDEQ8b2d38u6ruCc9so8IQxt2WBDQpmz7JWF83JTHAw=="/>
+            <enclosure url="https://github.com/saltabo/saltabo/releases/download/v1.0.0/Saltabo.zip" length="1875383" type="application/octet-stream" sparkle:edSignature="k3/F3GRwL77TFXddbRoA04onUX7lVVlSV/1mb8munbFMDEQ8b2d38u6ruCc9so8IQxt2WBDQpmz7JWF83JTHAw=="/>
         </item>
     </channel>
 </rss>
