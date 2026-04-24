@@ -43,7 +43,7 @@ Saltabo is designed specifically for macOS:
 
 Download the latest version:
 
-👉 https://saltabo.github.io
+👉 https://github.com/saltabo/saltabo/releases
 
 ---
 
@@ -51,7 +51,7 @@ Download the latest version:
 
 Saltabo uses Sparkle for automatic updates.
 
-Appcast feed: https://saltabo.github.io/appcast.xml
+Appcast feed: https://saltabo.github.io/saltabo/appcast.xml
 
 ---
 
@@ -76,4 +76,4 @@ Saltabo is built with that in mind.
 
 ## 📄 License
 
-MIT
+[MIT](LICENSE)
